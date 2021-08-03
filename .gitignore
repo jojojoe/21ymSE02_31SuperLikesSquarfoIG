@@ -1,0 +1,7 @@
+SLymSuperLiSquar.xcodeproj/xcuserdata/
+SLymSuperLiSquar.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+SLymSuperLiSquar.xcodeproj/project.xcworkspace/xcuserdata/
