@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B87365CA-9D47-462E-9FDE-E232F4AEC027"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1BBE6BCC-D380-4F37-8423-958B4CF74E36"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SLymSuperLiSquar/Mainnnn/SLymEdittttVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "293"
+            endingLineNumber = "293"
+            landmarkName = "showCoinAlertView(title:okBtnStr:okBlock:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0C4A91E6-7E78-44F6-9151-33DE4B29C467"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SLymSuperLiSquar/Mainnnn/SLymEdittttVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "289"
+            endingLineNumber = "289"
+            landmarkName = "showCoinAlertView(title:okBtnStr:okBlock:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0C4A91E6-7E78-44F6-9151-33DE4B29C467 - c27f88c7ad27fc09"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SLymSuperLiSquar.SLymEdittttVC.showCoinAlertView(title: Swift.Optional&lt;Swift.String&gt;, okBlock: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "SLymSuperLiSquar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jojo/Work/YouMaiBaseline/21SE02_31SuperLikesSquarfoIG/SLymSuperLiSquar/SLymSuperLiSquar/Mainnnn/SLymEdittttVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "288"
+                  endingLineNumber = "288"
+                  offsetFromSymbolStart = "747">
+               </Location>
+               <Location
+                  uuid = "0C4A91E6-7E78-44F6-9151-33DE4B29C467 - 34b9f7c738e4a251"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in SLymSuperLiSquar.SLymEdittttVC.showCoinAlertView(title: Swift.Optional&lt;Swift.String&gt;, okBlock: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "SLymSuperLiSquar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jojo/Work/YouMaiBaseline/21SE02_31SuperLikesSquarfoIG/SLymSuperLiSquar/SLymSuperLiSquar/Mainnnn/SLymEdittttVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "289"
+                  endingLineNumber = "289"
+                  offsetFromSymbolStart = "194">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
